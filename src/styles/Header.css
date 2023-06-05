@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    font-size: 20px;
+    
+    /* opacity: 0.5; */
+    /* background-color: black; */
+}
+
+.navigation-bar{
+    display: flex;
+    margin-left: 400px;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-top: 20px;
+    gap: 0px;
+}
+
+.logo {
+    margin: auto 0;
+}
+
